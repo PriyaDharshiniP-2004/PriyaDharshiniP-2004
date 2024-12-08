@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PriyaDharshiniP.
-- 👀 I’m interested in coding,designing like UI/UX.
-- 🌱 I’m currently persuing 2nd year in Bchalor's degree of Computer Science of Engineering.
-- 💞️ I’m looking to collaborate on 
+- 👀 3rd Year B.E. Computer Science and Engineering Student at Kumaraguru College of Technology, Coimbatore.
+- 🌱 Passionate Developer | Data Enthusiast | Creative Designer
 - 📫 How to reach me priyad109615@gmail.com
 
 <!---
